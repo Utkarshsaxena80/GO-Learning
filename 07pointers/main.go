@@ -10,4 +10,5 @@ func main (){
 	var ptr=&myNumber//referencing 
 	fmt.Println(*ptr)
 	fmt.Println(ptr)
+	fmt.Println(*ptr*2)
 }
