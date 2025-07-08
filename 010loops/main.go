@@ -10,9 +10,6 @@ func main() {
 	for i := 0; i < 5; i++ {
 		fmt.Println(i)
 	}
-
-
-
 	//iterate over a array or a map 
 	numbers:=[]int{10,20,30,40}
 
